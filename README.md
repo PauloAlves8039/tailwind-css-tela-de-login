@@ -2,7 +2,7 @@
 
 ## :computer: Projeto
 
-Página web para simular uma tela de login.
+Página web para simular uma tela de login, o código fonte do projeto foi baseado no curso [Tailwind CSS do zero ao avançado + Projetos](https://www.udemy.com/course/tailwind-completo/?couponCode=2021PM25).
 
 ## ✔️ Recursos Utilizados
 
@@ -15,6 +15,11 @@ Página web para simular uma tela de login.
 ```bash
 git clone https://github.com/PauloAlves8039/tailwind-css-tela-de-login.git
 ```
+
+## :camera: Screenshots
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/tailwind-css-tela-de-login/blob/master/src/assets/images/screenshot1.png" /> </p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/tailwind-css-tela-de-login/blob/master/src/assets/images/screenshot2.png" style="width:400px;" /> </p>
 
 ## :boy: Author
 
